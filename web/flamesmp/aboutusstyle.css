@@ -1,0 +1,69 @@
+.eflogo {
+    width: 500px;
+    position: 150;
+    display: block;
+    margin: auto;
+}
+
+body {
+
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+
+.Rules {
+    border-radius: 10px;
+    background-color: white;
+    border-color: red;
+    size: 20px;
+    position: absolute;
+    left: 37%;
+    font-size: 20px;
+}
+
+.About {
+    border-radius: 10px;
+    background-color: white;
+    border-color: red;
+    size: 20px;
+    position: absolute;
+    left: 41.15%;
+    font-size: 20px;
+}
+
+.Home {
+    border-radius: 10px;
+    background-color: white;
+    border-color: red;
+    size: 20px;
+    position: absolute;
+    left: 47%;
+    font-size: 20px;
+}
+
+.News {
+    border-radius: 10px;
+    background-color: white;
+    border-color: red;
+    size: 20px;
+    position: absolute;
+    left: 55.3%;
+    font-size: 20px;
+}
+
+.Shop {
+    border-radius: 10px;
+    background-color: white;
+    border-color: red;
+    size: 20px;
+    position: absolute;
+    left: 51.3%;
+    font-size: 20px;
+}
