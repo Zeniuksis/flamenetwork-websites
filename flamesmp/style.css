@@ -6,7 +6,7 @@
 }
 
 body {
-
+    background-image: url(img/background2.png);
 }
 
 h1 {
@@ -66,4 +66,38 @@ a {
     position: absolute;
     left: 51.3%;
     font-size: 20px;
+}
+
+.IPFolder {
+    position: relative;
+    width: 100%;
+}
+
+.IP {
+    position: absolute;
+    top: -0%;
+    left: 27%;
+    text-align: center;
+    color: white;
+    font-size: 75px;
+    font-family: Impact;
+    color: rgb(255, 120, 30);
+}
+
+.SpawnClip {
+    width: 1887px;
+}
+.gradient-background {
+    background: rgb(255,0,0);
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,106,0,1) 100%);
+}
+
+button:hover {
+    background-color: rgb(188, 188, 188);
+}
+.Welcomelogo {
+    width: 500px;
+    position: 150;
+    display: block;
+    margin: auto;
 }
